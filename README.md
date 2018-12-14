@@ -1,6 +1,6 @@
 # README
 
-![Figure](whale/v2.0/delay/1.jpg)
+![Figure](https://raw.githubusercontent.com/icaoberg/whale/master/v2.0/delay/1.jpg)
 
 This is the code for the report
 
