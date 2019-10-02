@@ -10,4 +10,4 @@ This report was built as part of our summer research experience at [MTBI](https:
 
 ## Disclaimer
 
-I have not tried running this code since 2003 using whatever version of Matlab was available at the time.
+Be kind. I have not tried running this code since 2003 using whatever version of Matlab was available at the time. I look at my coding style back in the day and cringe.
